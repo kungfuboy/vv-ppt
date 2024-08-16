@@ -91,7 +91,7 @@ h1 {
 
 <img
   class="w-1/2"
-  src="public/game1.jpg"
+  src="/game1.jpg"
   alt=""
 />
 
@@ -112,7 +112,7 @@ h1 {
 <div class="border w-12/12">
 <img
   class="shadow-2xl"
-  src="public/game1.jpg"
+  src="/game1.jpg"
   alt=""
 />
 </div>
